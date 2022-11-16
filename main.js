@@ -50,7 +50,6 @@ function play(){
         console.log("DOWN!!!")
     }else{
         resultArea.textContent = "맞췄습니다!"
-        gameOver=true;
         console.log("맞추셨습니다.")
     }
 
